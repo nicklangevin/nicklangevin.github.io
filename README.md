@@ -1,13 +1,13 @@
 
 
-### Systems Engineer | Security | Automation | Analytics  
+### Security Engineer | Security | Automation | Business Analytics  
 
 Welcome to my portfolio — a space where I share the projects, tools, and systems I’ve built that make technology more secure, scalable, and efficient.
 
 ---
 
 ##  About Me  
-I'm a Systems Engineer passionate about **security innovation** and **automation**.  
+I'm a Security Engineer passionate about **security innovation** and **automation**.  
 I design and implement systems that balance **performance, reliability, and security** — from cloud infrastructure to on-prem analytics pipelines.
 
 -  Focus Areas: Threat Detection, OSINT, Cloud Security, System Integration  
@@ -30,7 +30,7 @@ Local AI pipeline for real-time threat detection and tailgating prevention.
  [Project Details](projects.md)
 
 ###  Access Control Integration Tool  
-**Tech:** C#, REST APIs, RS-485  
+**Tech:** C#, REST API, RS-485  
 Bridged LenelS2 access control with custom turnstile release logic.  
  [Project Details](projects.md)
 
