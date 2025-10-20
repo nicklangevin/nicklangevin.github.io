@@ -1,10 +1,4 @@
 
----
-
-<head>
-  <link rel="icon" href="assets/NL.png" type="image/png">
-</head>
-
 # Hi, I'm Nick Langevin
 
 ### Systems Engineer | Security | Automation | Analytics  
