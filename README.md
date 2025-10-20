@@ -1,4 +1,4 @@
-title: Nick Langevin
+
 ---
 
 <head>
