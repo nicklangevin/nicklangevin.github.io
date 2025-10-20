@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font-family: "Segoe UI", Roboto, sans-serif;
+  color: #111;
+}
+
+h1, h2, h3 {
+  color: #007acc;
+}
+
+a {
+  color: #007acc;
+}
+
+hr {
+  border: none;
+  border-top: 2px solid #007acc22;
+  margin: 2em 0;
+}
