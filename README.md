@@ -1,7 +1,7 @@
 <head> 
   <link rel="icon" href="assets/favicon.png" type="image/png">
 <head>
-# 👋 Hi, I'm Nick Langevin
+#👋 Hi, I'm Nick Langevin
 
 ### Systems Engineer | Security | Automation | Analytics  
 
