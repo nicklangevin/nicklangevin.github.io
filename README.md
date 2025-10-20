@@ -2,7 +2,7 @@
 ---
 
 <head>
-  <link rel="icon" href="assets/favicon.png" type="image/png">
+  <link rel="icon" href="assets/NL.png" type="image/png">
 </head>
 
 # Hi, I'm Nick Langevin
