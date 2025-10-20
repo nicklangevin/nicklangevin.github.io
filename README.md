@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nick Langevin  
+
 ### Systems Engineer | Security | Automation | Analytics  
 
 Welcome to my portfolio — a space where I share the projects, tools, and systems I’ve built that make technology more secure, scalable, and efficient.
